@@ -1,11 +1,13 @@
 ## <p align="center"> Tạo một trang web tỏ tình không cần code </p>
-<p align="center"> <img src="/imagesGithub/github.png" alt="bg" /> </p>
+
+![confess-crush
+](https://socialify.git.ci/zukahai/confess-crush/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
 <hr>
 
 ## <p align="center"> Hướng dẫn chi tiết </p>
 
-* Hướng dẫn làm trang web
+* Hướng dẫn làm trang web 
   * [Bước 1: Đăng nhập Github](#bước-1-đăng-nhập-github) </br>
   * [Bước 2: Fork project](#bước-2-fork-project) </br>
   * [Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
@@ -51,27 +53,35 @@ Sau khi chỉnh sửa xong bạn nhớ ấn và0 đây để lưu lại nhé.
 <p align="center"> <img src="/imagesGithub/4.png" alt="support" /> </p>
 
 ### Bước 4: Tạo trang web
-Để có thể xem cũng như đưa trang web của bạn cho người khác xem, bạn cần làm như sau. </br>
-Đầu tiên chuyển sang phần setting bằng cách bấm và setting như hình dưới:
-<p align="center"> <img src="/imagesGithub/5.png" alt="setting" /> </p>
 
-Tại đó hãy chọn mục pages
-<p align="center"> <img src="/imagesGithub/6.png" alt="setting" /> </p>
-Tại mục branch chọn Main và bấm save để lưu lại:
-<p align="center"> <img src="/imagesGithub/7.png" alt="setting" /> </p>
-Lúc này đương link của bạn sẽ hiện lên tương tự như thế này.
-<p align="center"> <img src="/imagesGithub/8.png" alt="setting" /> </p>
-Bấm vào đường link, tại lại trang liên tục đến khi trang hoặc động nhé (Bạn cần chờ khoảng 2 phút) </br>
-Nếu bạn chờ lâu quá mà trang web không hoặc động bạn có thể thêm chữ index.html phía sau đương link như thế này:
-<p align="center"> <img src="/imagesGithub/9.png" alt="setting" /> </p>
+Đầu tiên các bạn truy cập: https://vercel.com/login
+
+Chọn đăng nhập bằng github:
+
+<p align="center"> <img src="/imagesGithub/vercel1.png" alt="support" /> </p>
+
+Sau khi đăng nhập, tại giao diện chính, bấm nút **Add New**, chọn **Project**
+
+<p align="center"> <img src="/imagesGithub/vercel2.png" alt="support" /> </p>
+
+Bấm **import** bên phải **Confress-Crush** như trong hình:
+
+<p align="center"> <img src="/imagesGithub/vercel3.png" alt="support" /> </p>
+
+Chọn **Deploy** và chờ khoảng 1 phút để trang web của bạn được tạo.
+
+<p align="center"> <img src="/imagesGithub/vercel4.png" alt="support" /> </p>
+
+Sau khi xuất hiện như hình dưới thì chúc mừng bạn đã tạo trang web thành công. Bấm vào theo như hình để lấy link trang web của bạn.
+<p align="center"> <img src="/imagesGithub/vercel5.png" alt="support" /> </p>
 
 <hr>
 
 ### <p align="center"> Video hướng dẫn </p>
 Các bạn vẫn chưa làm được à? có thể là bị sai ở một bước nào đó, xem video hướng dẫn để biết mình sai ở đâu nhé.
 </br>
-Xem vide hướng dẫn [Tại đây](https://www.youtube.com/watch?v=RvmmB8euJv4)
-[<p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>](https://www.youtube.com/watch?v=RvmmB8euJv4)
+Xem vide hướng dẫn ***[Tại đây](https://drive.google.com/file/d/1ACDGxlP3MsYQOsslN6WXzlDvyIc3V-MI/view?usp=drive_link)***
+<p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>
 
 <br>
 
@@ -87,3 +97,5 @@ Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai 
 [<p align="center"> <img src="/img/logi.gif" alt="web" /> </p>](https://github.com/zukahai/Confess-Crush/issues/new)
 
 ### <p align="center">😘💔💙💓💝💟💑 Chúc các bạn thành công 💚💗💘💖💞💋👄</p>
+
+> Source-code được tham khảo từ nhiều nguồn.
